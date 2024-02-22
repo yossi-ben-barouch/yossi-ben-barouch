@@ -25,15 +25,23 @@ My journey has been marked by hands-on leadership in designing and implementing 
 
 Engaging in challenging projects where I can contribute my extensive background in technology, marketing, and business to make a tangible impact.
 
+
 **Skills & Tools:**
 
--   **E-commerce Platforms**: Magento 2, Shopify, WooCommerce, BigCommerce
--   **Marketplaces Expertise**: Amazon, Walmart, eBay, Etsy, Google Shopping
--   **Programming Languages**: PHP, HTML5, CSS, JavaScript, VueJS, Angular, React
--   **Digital Marketing**: Facebook Ads, TikTok, Google/Bing PPC, Amazon PPC
--   **Design Tools**: Figma, Adobe Photoshop, Illustrator, XD
--   **Project Management**: JIRA, Asana, Trello
--   **Data Analytics**: Google Analytics, Facebook Pixel, Advanced Excel
+-   **E-commerce Platforms**: Expertise in Magento 2, Shopify, WooCommerce, BigCommerce for creating scalable online stores.
+-   **Marketplaces**: Advanced knowledge in managing and optimizing Amazon, Walmart, eBay, Etsy, Google Shopping, Bing Shopping, Wish.com for increased sales and visibility.
+-   **Programming & Development**: Proficient in PHP 8, HTML5, CSS3, JavaScript, jQuery, VueJS, Angular, React; experienced with Django, Python for full-stack development and automation projects.
+-   **Database Management**: Skilled in MySQL, MariaDB, PostgreSQL, leveraging database design for efficient data handling and storage solutions.
+-   **Cloud Computing & DevOps**: Familiarity with AWS services, Docker, Kubernetes for deploying scalable and reliable applications; experience with server and domain setup for optimal performance and security.
+-   **AI & Machine Learning**: Utilization of AI technologies for e-commerce optimization, content creation, and data analysis; keen interest in exploring machine learning applications.
+-   **Paid Marketing & SEO**: Comprehensive experience with Facebook Ads, TikTok Ads, Amazon PPC, Google/Bing PPC; proficient in SEO tools and strategies for maximizing online presence.
+-   **Content Creation & Design**: Skilled in Figma, Adobe XD, Photoshop, Illustrator for creating engaging visuals; adept at content strategy and production for digital marketing.
+-   **Project Management Tools**: Proficient with JIRA, Asana, Monday, Trello, Microsoft Project for efficient project tracking and team collaboration.
+-   **Data Analytics & Optimization**: Advanced usage of Google Analytics, Facebook Pixels, data analysis tools for insights and optimization; experienced in conversion optimization techniques.
+-   **Automation & Scripting**: Knowledge in automating repetitive tasks, data scraping, and analytics using Python, JavaScript, and relevant libraries.
+-   **Web Development Tools**: Experience with WordPress, Laravel, and other web development frameworks for creating and managing dynamic websites.
+-   **UI/UX Design**: Understanding of user interface and experience design principles, using tools like Sketch and Anima for creating user-centric designs.
+-   **Communication & Collaboration**: Strong communication skills, proficient in managing cross-functional teams and engaging with stakeholders to drive project success.
 
 **Let's Connect!**
 
